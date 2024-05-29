@@ -4,12 +4,15 @@
 
 ## Media
 <br>
-*For this input image*<br>
+For this input image
+<br>
 <img src="Outputs/cat.JPEG" alt="Day-Night Cycle in Action" width="500"/>
 <br><br>
-*This is the output*<br>
+This is the output
+<br>
 <img src="Outputs/cat.out.JPG" alt="Day-Night Cycle in Action" width="500"/>
 <br>
+
 ## Features
 
 - **Image to ASCII Art Conversion**: 
